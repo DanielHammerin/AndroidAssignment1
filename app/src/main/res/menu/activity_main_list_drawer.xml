@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/randomStart"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Random" />
+        <item
+            android:id="@+id/bmiStart"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="BMI Calculator" />
+        <item
+            android:id="@+id/myCountryStart"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="My Countries" />
+        <item
+            android:id="@+id/weatherStart"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Vaxjo Weather" />
+        <item
+            android:id="@+id/beerStart"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="BeerPager" />
+
+    </group>
+
+</menu>

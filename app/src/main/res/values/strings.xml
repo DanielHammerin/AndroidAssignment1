@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Assignment1Project</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello">Hello World, VaxjoWeather!</string>
+    <string name="app_name2">VaxjoWeather</string>
+    <string name="settings">Settings</string>
+    <string name="imgdesc">Icon for weather</string>
+
+</resources>
